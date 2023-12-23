@@ -29,4 +29,4 @@ Foram utilizadas as seguintes tecnologias neste projeto:
 <br>
 
 > ## Autor 📝
-+ [Ruan Cardoso](https://github.com/RuanCxrdoso)
++ [Ruan Cardoso](https://www.linkedin.com/in/ruancardosolinkdin/)
